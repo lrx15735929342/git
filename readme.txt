@@ -8,5 +8,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> featurel
 Git tracks changes of files.
 hello~
-hhhh
-lalala
+world.
